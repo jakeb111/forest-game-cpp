@@ -2,5 +2,10 @@
 My first game made in C++
 <h3>TODO</h3>
 <ul>
-  <li>Nothing rn</li>
+  <li>Fix problems with bots:</li>
+  <ul>
+    <li>Sometimes the bot duplicates when going back to the last area</li>
+    <li>The bot deletes trees and houses</li>
+  </ul>
+  <li>Create ending screen</li>
 </ul>
