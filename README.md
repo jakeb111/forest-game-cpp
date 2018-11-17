@@ -7,5 +7,5 @@ My first game made in C++
     <li>Sometimes the bot duplicates when going back to the last area</li>
     <li>The bot deletes trees and houses</li>
   </ul>
-  <li>Create ending screen</li>
+  <li><s>Create ending screen</s></li>
 </ul>
